@@ -2,6 +2,7 @@
  var kittens =["Milo", "Otis", "Garfield"]
  
  function destructivelyAppendKitten(name){
+<<<<<<< HEAD
  kittens.push(name);
  }
  
@@ -46,3 +47,7 @@ function appendKitten(name) {
  }
  
  
+=======
+ kittens.append(name);
+ }
+>>>>>>> 894337634759bbb4612f556a06f5ffa2b25f93c2
